@@ -1,4 +1,4 @@
-package ca.mcgill.ecse437.lab2;
+package ca.uwaterloo.cs489.exercise2;
 
 import java.io.BufferedReader;
 import java.io.File;
